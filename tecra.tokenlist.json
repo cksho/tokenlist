@@ -1,0 +1,113 @@
+{
+  "name": "tecra.space",
+  "timestamp": "2022-01-26T10:08:07Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "bases": {
+      "name": "Platform tokens",
+      "description": "Tokens to be traded"
+    },
+    "wrapped": {
+      "name": "Wrapped tokens",
+      "description": "Wrapped tokens to trade"
+    }
+  },
+  "logoURI": "https://tecra.space/assets/images/svg/tcr-coin.svg",
+  "keywords": ["base", "wrapped"],
+  "tokens": [
+    {
+      "name": "Wrapped TCR",
+      "address": "0x0458a4976d8813F82d44f380B5b4D5D8d8346d1E",
+      "symbol": "WTCR",
+      "tags": ["wrapped"],
+      "decimals": 18,
+      "chainId": 20531812,
+      "logoURI": "https://tecra.space/assets/images/svg/tcr-coin.svg"
+    },
+    {
+      "name": "Expanse Plus",
+      "address": "0x52e2e05EB92F7232b8D9146BE961d58A13106975",
+      "symbol": "SUN",
+      "tags": ["base"],
+      "decimals": 18,
+      "chainId": 20531812,
+      "logoURI": "https://api.tecra.space/media/60a780c65e566.svg"
+    },
+    {
+      "name": "Belters",
+      "address": "0x9D03F0f4369d397344809ac46Ee4C652dB7dED07",
+      "symbol": "BLT",
+      "tags": ["base"],
+      "decimals": 18,
+      "chainId": 20531812,
+      "logoURI": "https://api.tecra.space/media/6131eac85d459.svg"
+    },
+    {
+      "name": "Spacewalkers",
+      "address": "0xc91743A9C8aeC4770cB5982e9Fc70A7DaB1eAC34",
+      "symbol": "SWT",
+      "tags": ["base"],
+      "decimals": 18,
+      "chainId": 20531812,
+      "logoURI": "https://api.tecra.space/media/61126fe114599.svg"
+    },
+    {
+      "name": "Silent",
+      "address": "0xfBb7FF7aDd400B7301A29e33C52Daf28f82782bD",
+      "symbol": "SLT",
+      "tags": ["base"],
+      "decimals": 18,
+      "chainId": 20531812,
+      "logoURI": "https://api.tecra.space/media/619265fe39b3f.svg"
+    },
+    {
+      "name": "Wrapped TCR",
+      "address": "0xbF8Dc1eF13F1086fc96c0ADfad59ffb59c599ed9",
+      "symbol": "WTCR",
+      "tags": ["wrapped"],
+      "decimals": 18,
+      "chainId": 20531811,
+      "logoURI": "https://tecra.space/assets/images/svg/tcr-coin.svg"
+    },
+    {
+      "name": "Expanse Plus",
+      "address": "0xAc0659C37c448EdcDeefb3943E65d0327636681f",
+      "symbol": "SUN",
+      "tags": ["base"],
+      "decimals": 18,
+      "chainId": 20531811,
+      "logoURI": "https://api.tecra.space/media/60a780c65e566.svg"
+    },
+    {
+      "name": "Belters",
+      "address": "0x55391EBe9e2A9F1028F9677871b086818c6B2cD3",
+      "symbol": "BLT",
+      "tags": ["base"],
+      "decimals": 18,
+      "chainId": 20531811,
+      "logoURI": "https://api.tecra.space/media/6131eac85d459.svg"
+    },
+    {
+      "name": "Spacewalkers",
+      "address": "0xac2682018Cd3a488557C5018d61315989bcC319A",
+      "symbol": "SWT",
+      "tags": ["base"],
+      "decimals": 18,
+      "chainId": 20531811,
+      "logoURI": "https://api.tecra.space/media/61126fe114599.svg"
+    },
+    {
+      "name": "Silent",
+      "address": "0x748Ad153156c40e1d2F92c75E49b21092DDDdd6A",
+      "symbol": "SLT",
+      "tags": ["base"],
+      "decimals": 18,
+      "chainId": 20531811,
+      "logoURI": "https://api.tecra.space/media/619265fe39b3f.svg"
+    }
+  ]
+}
